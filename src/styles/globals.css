@@ -1,5 +1,4 @@
 @import "tailwindcss";
-@import "tailwindcss-animate";
 
 @theme {
   --color-background: hsl(0 0% 10%);
